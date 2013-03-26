@@ -1,0 +1,878 @@
+TGraphSample
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Products/Debug-iphonesimulator/GraphSample.app/Info.plist GraphSample/GraphSample-Info.plist
+cProcessPCH /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Intermediates/PrecompiledHeaders/GraphSample-Prefix-eqfftrckzngduecfghggeevsoqpx/GraphSample-Prefix.pch.pth GraphSample/GraphSample-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/Objects-normal/i386/CPDStockPriceStore.o "/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/iOS/Starter Files/CPDStockPriceStore.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/Objects-normal/i386/main.o /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/GraphSample/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/Objects-normal/i386/CPAppDelegate.o /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/GraphSample/CPAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/Objects-normal/i386/CPBarPlotViewController.o /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/GraphSample/CPBarPlotViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/Objects-normal/i386/CPDConstants.o "/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/iOS/Starter Files/CPDConstants.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/Objects-normal/i386/CPDScatterPlotViewController.o /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/GraphSample/CPDScatterPlotViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/Objects-normal/i386/CPDPieChartViewController.o /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/GraphSample/CPDPieChartViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Products/Debug-iphonesimulator/GraphSample.app/GraphSample normal i386
+cGenerateDSYMFile /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Products/Debug-iphonesimulator/GraphSample.app.dSYM /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Products/Debug-iphonesimulator/GraphSample.app/GraphSample
+cCopyStringsFile /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Products/Debug-iphonesimulator/GraphSample.app/en.lproj/InfoPlist.strings GraphSample/en.lproj/InfoPlist.strings
+cCpResource GraphSample/Default@2x.png DerivedData/GraphSample/Build/Products/Debug-iphonesimulator/GraphSample.app/Default@2x.png
+cCpResource GraphSample/Default-568h@2x.png DerivedData/GraphSample/Build/Products/Debug-iphonesimulator/GraphSample.app/Default-568h@2x.png
+cCpResource GraphSample/Default.png DerivedData/GraphSample/Build/Products/Debug-iphonesimulator/GraphSample.app/Default.png
+cCompileStoryboard /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/GraphSample/en.lproj/MainStoryboard.storyboard
+cCpResource GraphSample/first.png DerivedData/GraphSample/Build/Products/Debug-iphonesimulator/GraphSample.app/first.png
+cCpResource GraphSample/first@2x.png DerivedData/GraphSample/Build/Products/Debug-iphonesimulator/GraphSample.app/first@2x.png
+cCpResource GraphSample/second.png DerivedData/GraphSample/Build/Products/Debug-iphonesimulator/GraphSample.app/second.png
+cCpResource GraphSample/second@2x.png DerivedData/GraphSample/Build/Products/Debug-iphonesimulator/GraphSample.app/second@2x.png
+cTouch /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Products/Debug-iphonesimulator/GraphSample.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk
+c00000000504916AD0000000000000110
+t1346967213
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000504A97620000000000228FD0
+t1347065698
+s2265040
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000504A977000000000003DCEF0
+t1347065712
+s4050672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c00000000504A977000000000000015F7
+t1347065712
+s5623
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c00000000504A979000000000001D57A0
+t1347065744
+s1922976
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c00000000504A979B0000000000000E8D
+t1347065755
+s3725
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000504A979E0000000000AB3D60
+t1347065758
+s11222368
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/usr/include/Availability.h
+c00000000504A983A0000000000001B54
+t1347065914
+s6996
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/Objects-normal/i386/CPAppDelegate.o
+t1362735968
+s88704
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/Objects-normal/i386/CPBarPlotViewController.o
+t1362742381
+s134324
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/Objects-normal/i386/CPDConstants.o
+t1362735968
+s5156
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/Objects-normal/i386/CPDPieChartViewController.o
+t1362740588
+s125652
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/Objects-normal/i386/CPDScatterPlotViewController.o
+t1362743345
+s128564
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/Objects-normal/i386/CPDStockPriceStore.o
+t1362741856
+s34212
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/Objects-normal/i386/CPSecondViewController.o
+t1362736277
+s70624
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/Objects-normal/i386/GraphSample.LinkFileList
+c000000005139CA5A0000000000000552
+t1362741850
+s1362
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/Objects-normal/i386/main.o
+t1362735968
+s3344
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Intermediates/PrecompiledHeaders/GraphSample-Prefix-eqfftrckzngduecfghggeevsoqpx/GraphSample-Prefix.pch.pth
+t1362735968
+s5272160
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Products/Debug-iphonesimulator/GraphSample.app
+t1362743347
+s442
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Products/Debug-iphonesimulator/GraphSample.app.dSYM
+t1362743346
+s102
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Products/Debug-iphonesimulator/GraphSample.app/Default-568h@2x.png
+t1362735970
+s18594
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Products/Debug-iphonesimulator/GraphSample.app/Default.png
+t1362735970
+s6540
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Products/Debug-iphonesimulator/GraphSample.app/Default@2x.png
+t1362735970
+s16107
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Products/Debug-iphonesimulator/GraphSample.app/GraphSample
+t1362743346
+s814676
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Products/Debug-iphonesimulator/GraphSample.app/Info.plist
+t1362735966
+s885
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Products/Debug-iphonesimulator/GraphSample.app/PkgInfo
+t1362735966
+s8
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Products/Debug-iphonesimulator/GraphSample.app/en.lproj/InfoPlist.strings
+t1362735970
+s42
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Products/Debug-iphonesimulator/GraphSample.app/en.lproj/MainStoryboard.storyboardc
+t1362741973
+s238
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Products/Debug-iphonesimulator/GraphSample.app/first.png
+t1362735970
+s253
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Products/Debug-iphonesimulator/GraphSample.app/first@2x.png
+t1362735970
+s402
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Products/Debug-iphonesimulator/GraphSample.app/second.png
+t1362735970
+s128
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Products/Debug-iphonesimulator/GraphSample.app/second@2x.png
+t1362735971
+s130
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/GraphSample/CPAppDelegate.h
+c00000000513999840000000000000122
+t1362729348
+s290
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/GraphSample/CPAppDelegate.m
+c000000005139998400000000000007E6
+t1362729348
+s2022
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/GraphSample/CPBarPlotViewController.h
+c000000005139C751000000000000011B
+t1362741073
+s283
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/GraphSample/CPBarPlotViewController.m
+c000000005139CC69000000000000258F
+t1362742377
+s9615
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/GraphSample/CPDPieChartViewController.h
+c000000005139BB51000000000000011B
+t1362738001
+s283
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/GraphSample/CPDPieChartViewController.m
+c000000005139C4990000000000001DFD
+t1362740377
+s7677
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/GraphSample/CPDScatterPlotViewController.h
+c000000005139CD96000000000000014D
+t1362742678
+s333
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/GraphSample/CPDScatterPlotViewController.m
+c000000005139D0E50000000000002A8B
+t1362743525
+s10891
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/GraphSample/CPSecondViewController.h
+c000000005139998400000000000000F0
+t1362729348
+s240
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/GraphSample/CPSecondViewController.m
+c000000005139B3C900000000000002D8
+t1362736073
+s728
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/GraphSample/Default-568h@2x.png
+c0000000050262AB100000000000048A2
+t1344678577
+s18594
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/GraphSample/Default.png
+c0000000050262AB1000000000000198C
+t1344678577
+s6540
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/GraphSample/Default@2x.png
+c0000000050262AB10000000000003EEB
+t1344678577
+s16107
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/GraphSample/GraphSample-Prefix.pch
+c000000005139ACEB00000000000001A9
+t1362734315
+s425
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+i"CorePlot-CocoaTouch.h"
+i"CPDConstants.h"
+i"CPDStockPriceStore.h"
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/GraphSample/en.lproj/InfoPlist.strings
+c0000000051399984000000000000002D
+t1362729348
+s45
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/GraphSample/en.lproj/MainStoryboard.storyboard
+c000000005139CAB10000000000002C9A
+t1362741937
+s11418
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/GraphSample/first.png
+c0000000050262AB100000000000000FD
+t1344678577
+s253
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/GraphSample/first@2x.png
+c0000000050262AB10000000000000192
+t1344678577
+s402
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/GraphSample/main.m
+c0000000051399984000000000000015D
+t1362729348
+s349
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/GraphSample/second.png
+c0000000050262AB10000000000000080
+t1344678577
+s128
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/GraphSample/second@2x.png
+c0000000050262AB10000000000000082
+t1344678577
+s130
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/iOS/CorePlotHeaders/CPTAnnotation.h
+c0000000050A01A9000000000000003E9
+t1352669840
+s1001
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/iOS/CorePlotHeaders/CPTAnnotationHostLayer.h
+c0000000050A01A900000000000000181
+t1352669840
+s385
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/iOS/CorePlotHeaders/CPTAxis.h
+c0000000050A01A9000000000000023F8
+t1352669840
+s9208
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/iOS/CorePlotHeaders/CPTAxisLabel.h
+c0000000050A01A90000000000000042B
+t1352669840
+s1067
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/iOS/CorePlotHeaders/CPTAxisSet.h
+c0000000050A01A90000000000000022C
+t1352669840
+s556
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/iOS/CorePlotHeaders/CPTAxisTitle.h
+c0000000050A01A90000000000000006D
+t1352669840
+s109
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/iOS/CorePlotHeaders/CPTBarPlot.h
+c0000000050A01A9000000000000016C1
+t1352669840
+s5825
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/iOS/CorePlotHeaders/CPTBorderedLayer.h
+c0000000050A01A90000000000000026D
+t1352669840
+s621
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/iOS/CorePlotHeaders/CPTCalendarFormatter.h
+c0000000050A01A90000000000000027D
+t1352669840
+s637
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/iOS/CorePlotHeaders/CPTColor.h
+c0000000050A01A90000000000000044F
+t1352669840
+s1103
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/iOS/CorePlotHeaders/CPTColorSpace.h
+c0000000050A01A90000000000000019E
+t1352669840
+s414
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/iOS/CorePlotHeaders/CPTConstraints.h
+c0000000050A01A9000000000000003B5
+t1352669840
+s949
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/iOS/CorePlotHeaders/CPTDefinitions.h
+c0000000050A01A90000000000000169C
+t1352669840
+s5788
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/iOS/CorePlotHeaders/CPTExceptions.h
+c0000000050A01A9000000000000000E1
+t1352669840
+s225
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/iOS/CorePlotHeaders/CPTFill.h
+c0000000050A01A90000000000000034A
+t1352669840
+s842
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/iOS/CorePlotHeaders/CPTGradient.h
+c0000000050A01A900000000000000C3D
+t1352669840
+s3133
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/iOS/CorePlotHeaders/CPTGraph.h
+c0000000050A01A900000000000000EC0
+t1352669840
+s3776
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/iOS/CorePlotHeaders/CPTGraphHostingView.h
+c0000000050A01A9000000000000001C3
+t1352669840
+s451
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/iOS/CorePlotHeaders/CPTImage.h
+c0000000050A01A9000000000000003DA
+t1352669840
+s986
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/iOS/CorePlotHeaders/CPTLayer.h
+c0000000050A01A900000000000000B86
+t1352669840
+s2950
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/iOS/CorePlotHeaders/CPTLayerAnnotation.h
+c0000000050A01A900000000000000209
+t1352669840
+s521
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/iOS/CorePlotHeaders/CPTLegend.h
+c0000000050A01A900000000000001047
+t1352669840
+s4167
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/iOS/CorePlotHeaders/CPTLegendEntry.h
+c0000000050A01A9000000000000003A4
+t1352669840
+s932
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/iOS/CorePlotHeaders/CPTLimitBand.h
+c0000000050A01A900000000000000227
+t1352669840
+s551
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/iOS/CorePlotHeaders/CPTLineCap.h
+c0000000050A01A900000000000000896
+t1352669840
+s2198
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/iOS/CorePlotHeaders/CPTLineStyle.h
+c0000000050A01A900000000000000507
+t1352669840
+s1287
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/iOS/CorePlotHeaders/CPTMutableLineStyle.h
+c0000000050A01A900000000000000272
+t1352669840
+s626
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/iOS/CorePlotHeaders/CPTMutableNumericData+TypeConversion.h
+c0000000050A01A9000000000000002BE
+t1352669840
+s702
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/iOS/CorePlotHeaders/CPTMutableNumericData.h
+c0000000050A01A900000000000000137
+t1352669840
+s311
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/iOS/CorePlotHeaders/CPTMutablePlotRange.h
+c0000000050A01A900000000000000277
+t1352669840
+s631
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/iOS/CorePlotHeaders/CPTMutableShadow.h
+c0000000050A01A900000000000000161
+t1352669840
+s353
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/iOS/CorePlotHeaders/CPTMutableTextStyle.h
+c0000000050A01A90000000000000017E
+t1352669840
+s382
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/iOS/CorePlotHeaders/CPTNumericData+TypeConversion.h
+c0000000050A01A90000000000000032E
+t1352669840
+s814
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/iOS/CorePlotHeaders/CPTNumericData.h
+c0000000050A01A900000000000000D1C
+t1352669840
+s3356
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/iOS/CorePlotHeaders/CPTNumericDataType.h
+c0000000050A01A9000000000000006C8
+t1352669840
+s1736
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/iOS/CorePlotHeaders/CPTPathExtensions.h
+c0000000050A01A900000000000000125
+t1352669840
+s293
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/iOS/CorePlotHeaders/CPTPieChart.h
+c0000000050A01A90000000000000160B
+t1352669840
+s5643
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/iOS/CorePlotHeaders/CPTPlatformSpecificCategories.h
+c0000000050A01A9000000000000003B0
+t1352669840
+s944
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/iOS/CorePlotHeaders/CPTPlatformSpecificDefines.h
+c0000000050A01A9000000000000000BD
+t1352669840
+s189
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/iOS/CorePlotHeaders/CPTPlatformSpecificFunctions.h
+c0000000050A01A900000000000000161
+t1352669840
+s353
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/iOS/CorePlotHeaders/CPTPlot.h
+c0000000050A01A900000000000002ADA
+t1352669840
+s10970
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/iOS/CorePlotHeaders/CPTPlotArea.h
+c0000000050A01A900000000000000683
+t1352669840
+s1667
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/iOS/CorePlotHeaders/CPTPlotAreaFrame.h
+c0000000050A01A90000000000000017C
+t1352669840
+s380
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/iOS/CorePlotHeaders/CPTPlotRange.h
+c0000000050A01A9000000000000007FD
+t1352669840
+s2045
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/iOS/CorePlotHeaders/CPTPlotSpace.h
+c0000000050A01A9000000000000017E1
+t1352669840
+s6113
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/iOS/CorePlotHeaders/CPTPlotSpaceAnnotation.h
+c0000000050A01A9000000000000001A1
+t1352669840
+s417
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/iOS/CorePlotHeaders/CPTPlotSymbol.h
+c0000000050A01A9000000000000009FB
+t1352669840
+s2555
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/iOS/CorePlotHeaders/CPTRangePlot.h
+c0000000050A01A900000000000000E14
+t1352669840
+s3604
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/iOS/CorePlotHeaders/CPTResponder.h
+c0000000050A01A90000000000000071A
+t1352669840
+s1818
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/iOS/CorePlotHeaders/CPTScatterPlot.h
+c0000000050A01A900000000000001133
+t1352669840
+s4403
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/iOS/CorePlotHeaders/CPTShadow.h
+c0000000050A01A90000000000000024E
+t1352669840
+s590
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/iOS/CorePlotHeaders/CPTTextLayer.h
+c0000000050A01A900000000000000260
+t1352669840
+s608
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/iOS/CorePlotHeaders/CPTTextStyle.h
+c0000000050A01A9000000000000004D7
+t1352669840
+s1239
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/iOS/CorePlotHeaders/CPTTheme.h
+c0000000050A01A900000000000000600
+t1352669840
+s1536
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/iOS/CorePlotHeaders/CPTTimeFormatter.h
+c0000000050A01A9000000000000001A2
+t1352669840
+s418
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/iOS/CorePlotHeaders/CPTTradingRangePlot.h
+c0000000050A01A900000000000002555
+t1352669840
+s9557
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/iOS/CorePlotHeaders/CPTUtilities.h
+c0000000050A01A900000000000000F1C
+t1352669840
+s3868
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/iOS/CorePlotHeaders/CPTXYAxis.h
+c0000000050A01A90000000000000018C
+t1352669840
+s396
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/iOS/CorePlotHeaders/CPTXYAxisSet.h
+c0000000050A01A9000000000000000F1
+t1352669840
+s241
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/iOS/CorePlotHeaders/CPTXYGraph.h
+c0000000050A01A900000000000000160
+t1352669840
+s352
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/iOS/CorePlotHeaders/CPTXYPlotSpace.h
+c0000000050A01A9000000000000002EE
+t1352669840
+s750
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/iOS/CorePlotHeaders/CorePlot-CocoaTouch.h
+c0000000050A01A90000000000000068F
+t1352669840
+s1679
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/iOS/Starter Files/CPDConstants.h
+c000000004FA3D15D0000000000000237
+t1336136029
+s567
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/iOS/Starter Files/CPDConstants.m
+c000000004FA3D15800000000000002AD
+t1336136024
+s685
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/iOS/Starter Files/CPDStockPriceStore.h
+c000000004FA3CF3400000000000001DB
+t1336135476
+s475
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/iOS/Starter Files/CPDStockPriceStore.m
+c000000005139C69000000000000024E2
+t1362740880
+s9442
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/iOS/libCorePlot-CocoaTouch.a
+c0000000050A01A9300000000003EFAA4
+t1352669843
+s4127396
+
+NGraphSample/GraphSample-Info.plist
+c000000005139AEFD000000000000052F
+t1362734845
+s1327
+
+CBuild AST from "/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/iOS/Starter Files/CPDConstants.m"
+r0
+
+CBuild AST from "/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/iOS/Starter Files/CPDStockPriceStore.m"
+r0
+
+CBuild AST from /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/GraphSample/CPAppDelegate.m
+r0
+
+CBuild AST from /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/GraphSample/CPBarPlotViewController.m
+r0
+
+CBuild AST from /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/GraphSample/CPDPieChartViewController.m
+r0
+
+CBuild AST from /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/GraphSample/CPDScatterPlotViewController.m
+r0
+
+CBuild AST from /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/GraphSample/CPSecondViewController.m
+r0
+
+CBuild AST from /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/GraphSample/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesbd1d896508eab641^255dab6508eab641^---0#1#0#--18"Check dependencies36"C9A2A886-2428-42B4-91C5-6B9CDE1E1101-
+
+CCompileC DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/Objects-normal/i386/CPAppDelegate.o /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/GraphSample/CPAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s384428768.429395
+e384428768.759981
+r1
+xCompileC
+xDerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/Objects-normal/i386/CPAppDelegate.o
+x/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/GraphSample/CPAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/GraphSample/CPAppDelegate.mb6486ee0eae9b641^1d8ec2e0eae9b641^---0#0#0#-19%DVTDocumentLocation2@95"file://localhost/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/GraphSample/CPAppDelegate.m0000000000000000^4281"CompileC DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/Objects-normal/i386/CPAppDelegate.o GraphSample/CPAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.0 -iquote /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/GraphSample-generated-files.hmap -I/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/GraphSample-own-target-headers.hmap -I/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/GraphSample-all-target-headers.hmap -iquote /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/GraphSample-project-headers.hmap -I/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/DerivedSources/i386 -I/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/DerivedSources -F/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Products/Debug-iphonesimulator -include /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Intermediates/PrecompiledHeaders/GraphSample-Prefix-eqfftrckzngduecfghggeevsoqpx/GraphSample-Prefix.pch -MMD -MT dependencies -MF /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/Objects-normal/i386/CPAppDelegate.d --serialize-diagnostics /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/Objects-normal/i386/CPAppDelegate.dia -c /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/GraphSample/CPAppDelegate.m -o /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/Objects-normal/i386/CPAppDelegate.o36"FA895DEA-9142-46B8-9260-896F4EC7126F-
+
+CCompileC DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/Objects-normal/i386/CPBarPlotViewController.o /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/GraphSample/CPBarPlotViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s384435180.815079
+e384435181.451689
+r1
+xCompileC
+xDerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/Objects-normal/i386/CPBarPlotViewController.o
+x/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/GraphSample/CPBarPlotViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Compile /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/GraphSample/CPBarPlotViewController.mdcd8d0ec03eab641^12a373ed03eab641^---0#0#0#-19%DVTDocumentLocation2@105"file://localhost/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/GraphSample/CPBarPlotViewController.m0000000000000000^4341"CompileC DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/Objects-normal/i386/CPBarPlotViewController.o GraphSample/CPBarPlotViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.0 -iquote /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/GraphSample-generated-files.hmap -I/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/GraphSample-own-target-headers.hmap -I/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/GraphSample-all-target-headers.hmap -iquote /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/GraphSample-project-headers.hmap -I/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/DerivedSources/i386 -I/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/DerivedSources -F/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Products/Debug-iphonesimulator -include /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Intermediates/PrecompiledHeaders/GraphSample-Prefix-eqfftrckzngduecfghggeevsoqpx/GraphSample-Prefix.pch -MMD -MT dependencies -MF /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/Objects-normal/i386/CPBarPlotViewController.d --serialize-diagnostics /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/Objects-normal/i386/CPBarPlotViewController.dia -c /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/GraphSample/CPBarPlotViewController.m -o /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/Objects-normal/i386/CPBarPlotViewController.o36"2034F80B-28E4-4F52-A077-D1746CFD4FD9-
+
+CCompileC DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/Objects-normal/i386/CPDConstants.o "/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/iOS/Starter Files/CPDConstants.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s384428768.738991
+e384428768.795291
+r1
+xCompileC
+xDerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/Objects-normal/i386/CPDConstants.o
+x/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/iOS/Starter Files/CPDConstants.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/iOS/Starter Files/CPDConstants.mf565bde0eae9b641^6897cbe0eae9b641^---0#0#0#-19%DVTDocumentLocation2@102"file://localhost/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/iOS/Starter%20Files/CPDConstants.m0000000000000000^4291"CompileC DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/Objects-normal/i386/CPDConstants.o "iOS/Starter Files/CPDConstants.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.0 -iquote /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/GraphSample-generated-files.hmap -I/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/GraphSample-own-target-headers.hmap -I/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/GraphSample-all-target-headers.hmap -iquote /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/GraphSample-project-headers.hmap -I/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/DerivedSources/i386 -I/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/DerivedSources -F/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Products/Debug-iphonesimulator -include /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Intermediates/PrecompiledHeaders/GraphSample-Prefix-eqfftrckzngduecfghggeevsoqpx/GraphSample-Prefix.pch -MMD -MT dependencies -MF /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/Objects-normal/i386/CPDConstants.d --serialize-diagnostics /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/Objects-normal/i386/CPDConstants.dia -c "/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/iOS/Starter Files/CPDConstants.m" -o /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/Objects-normal/i386/CPDConstants.o36"C2F787E7-C4CA-4D79-850F-AC4332D48809-
+
+CCompileC DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/Objects-normal/i386/CPDPieChartViewController.o /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/GraphSample/CPDPieChartViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s384433387.941179
+e384433388.977924
+r1
+xCompileC
+xDerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/Objects-normal/i386/CPDPieChartViewController.o
+x/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/GraphSample/CPDPieChartViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compile /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/GraphSample/CPDPieChartViewController.m8b19f1ebfce9b641^1959faecfce9b641^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/GraphSample/CPDPieChartViewController.m0000000000000000^4353"CompileC DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/Objects-normal/i386/CPDPieChartViewController.o GraphSample/CPDPieChartViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.0 -iquote /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/GraphSample-generated-files.hmap -I/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/GraphSample-own-target-headers.hmap -I/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/GraphSample-all-target-headers.hmap -iquote /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/GraphSample-project-headers.hmap -I/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/DerivedSources/i386 -I/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/DerivedSources -F/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Products/Debug-iphonesimulator -include /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Intermediates/PrecompiledHeaders/GraphSample-Prefix-eqfftrckzngduecfghggeevsoqpx/GraphSample-Prefix.pch -MMD -MT dependencies -MF /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/Objects-normal/i386/CPDPieChartViewController.d --serialize-diagnostics /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/Objects-normal/i386/CPDPieChartViewController.dia -c /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/GraphSample/CPDPieChartViewController.m -o /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/Objects-normal/i386/CPDPieChartViewController.o36"5C1ABB28-261E-4087-AB75-F499F997EE9E-
+
+CCompileC DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/Objects-normal/i386/CPDScatterPlotViewController.o /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/GraphSample/CPDScatterPlotViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s384436325.710427
+e384436329.875369
+r1
+xCompileC
+xDerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/Objects-normal/i386/CPDScatterPlotViewController.o
+x/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/GraphSample/CPDScatterPlotViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Compile /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/GraphSample/CPDScatterPlotViewController.mab20b66508eab641^2217e06908eab641^---0#0#0#-19%DVTDocumentLocation2@110"file://localhost/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/GraphSample/CPDScatterPlotViewController.m0000000000000000^4371"CompileC DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/Objects-normal/i386/CPDScatterPlotViewController.o GraphSample/CPDScatterPlotViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.0 -iquote /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/GraphSample-generated-files.hmap -I/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/GraphSample-own-target-headers.hmap -I/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/GraphSample-all-target-headers.hmap -iquote /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/GraphSample-project-headers.hmap -I/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/DerivedSources/i386 -I/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/DerivedSources -F/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Products/Debug-iphonesimulator -include /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Intermediates/PrecompiledHeaders/GraphSample-Prefix-eqfftrckzngduecfghggeevsoqpx/GraphSample-Prefix.pch -MMD -MT dependencies -MF /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/Objects-normal/i386/CPDScatterPlotViewController.d --serialize-diagnostics /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/Objects-normal/i386/CPDScatterPlotViewController.dia -c /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/GraphSample/CPDScatterPlotViewController.m -o /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/Objects-normal/i386/CPDScatterPlotViewController.o36"0E080903-32CC-4764-A981-1948DEB3D2F4-
+
+CCompileC DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/Objects-normal/i386/CPDStockPriceStore.o "/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/iOS/Starter Files/CPDStockPriceStore.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s384434650.990654
+e384434656.328620
+r1
+xCompileC
+xDerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/Objects-normal/i386/CPDStockPriceStore.o
+x/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/iOS/Starter Files/CPDStockPriceStore.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Compile /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/iOS/Starter Files/CPDStockPriceStore.maed6fdda01eab641^8d2554e001eab641^---0#0#0#-19%DVTDocumentLocation2@108"file://localhost/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/iOS/Starter%20Files/CPDStockPriceStore.m0000000000000000^4327"CompileC DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/Objects-normal/i386/CPDStockPriceStore.o "iOS/Starter Files/CPDStockPriceStore.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.0 -iquote /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/GraphSample-generated-files.hmap -I/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/GraphSample-own-target-headers.hmap -I/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/GraphSample-all-target-headers.hmap -iquote /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/GraphSample-project-headers.hmap -I/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/DerivedSources/i386 -I/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/DerivedSources -F/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Products/Debug-iphonesimulator -include /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Intermediates/PrecompiledHeaders/GraphSample-Prefix-eqfftrckzngduecfghggeevsoqpx/GraphSample-Prefix.pch -MMD -MT dependencies -MF /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/Objects-normal/i386/CPDStockPriceStore.d --serialize-diagnostics /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/Objects-normal/i386/CPDStockPriceStore.dia -c "/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/iOS/Starter Files/CPDStockPriceStore.m" -o /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/Objects-normal/i386/CPDStockPriceStore.o36"9A392B41-C6BF-4096-8BDB-0BC6E6553279-
+
+CCompileC DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/Objects-normal/i386/CPSecondViewController.o /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/GraphSample/CPSecondViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s384429075.986638
+e384429077.257582
+r1
+xCompileC
+xDerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/Objects-normal/i386/CPSecondViewController.o
+x/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/GraphSample/CPSecondViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Compile /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/GraphSample/CPSecondViewController.m66d8fc13ece9b641^73f34115ece9b641^---0#0#0#-19%DVTDocumentLocation2@104"file://localhost/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/GraphSample/CPSecondViewController.m0000000000000000^4335"CompileC DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/Objects-normal/i386/CPSecondViewController.o GraphSample/CPSecondViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.0 -iquote /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/GraphSample-generated-files.hmap -I/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/GraphSample-own-target-headers.hmap -I/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/GraphSample-all-target-headers.hmap -iquote /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/GraphSample-project-headers.hmap -I/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/DerivedSources/i386 -I/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/DerivedSources -F/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Products/Debug-iphonesimulator -include /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Intermediates/PrecompiledHeaders/GraphSample-Prefix-eqfftrckzngduecfghggeevsoqpx/GraphSample-Prefix.pch -MMD -MT dependencies -MF /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/Objects-normal/i386/CPSecondViewController.d --serialize-diagnostics /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/Objects-normal/i386/CPSecondViewController.dia -c /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/GraphSample/CPSecondViewController.m -o /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/Objects-normal/i386/CPSecondViewController.o36"AEDB4069-B687-4FB2-B727-06E2EDB282C6-
+
+CCompileC DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/Objects-normal/i386/main.o /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/GraphSample/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s384428768.429387
+e384428768.737492
+r1
+xCompileC
+xDerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/Objects-normal/i386/main.o
+x/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/GraphSample/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/GraphSample/main.md4496ee0eae9b641^10cdbce0eae9b641^---0#0#0#-19%DVTDocumentLocation2@86"file://localhost/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/GraphSample/main.m0000000000000000^4227"CompileC DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/Objects-normal/i386/main.o GraphSample/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.0 -iquote /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/GraphSample-generated-files.hmap -I/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/GraphSample-own-target-headers.hmap -I/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/GraphSample-all-target-headers.hmap -iquote /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/GraphSample-project-headers.hmap -I/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/DerivedSources/i386 -I/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/DerivedSources -F/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Products/Debug-iphonesimulator -include /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Intermediates/PrecompiledHeaders/GraphSample-Prefix-eqfftrckzngduecfghggeevsoqpx/GraphSample-Prefix.pch -MMD -MT dependencies -MF /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/Objects-normal/i386/main.dia -c /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/GraphSample/main.m -o /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/Objects-normal/i386/main.o36"24367BB6-6843-458D-B717-15298D19F835-
+
+CCompileStoryboard /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/GraphSample/en.lproj/MainStoryboard.storyboard
+s384434771.676455
+e384434773.488522
+r1
+xCompileStoryboard
+x/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/GraphSample/en.lproj/MainStoryboard.storyboard
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"CompileStoryboard GraphSample/en.lproj/MainStoryboard.storyboard6550ad5302eab641^77127d5502eab641^---0#0#0#-19%DVTDocumentLocation2@114"file://localhost/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/GraphSample/en.lproj/MainStoryboard.storyboard0000000000000000^1028"CompileStoryboard GraphSample/en.lproj/MainStoryboard.storyboard    cd /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 5.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Products/Debug-iphonesimulator/GraphSample.app/en.lproj/MainStoryboard.storyboardc /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/GraphSample/en.lproj/MainStoryboard.storyboard --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk36"8CC9A226-8B49-4A71-996D-7F7289F3A770-
+
+CCopyStringsFile /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Products/Debug-iphonesimulator/GraphSample.app/en.lproj/InfoPlist.strings GraphSample/en.lproj/InfoPlist.strings
+s384428770.729415
+e384428770.805155
+r1
+xCopyStringsFile
+x/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Products/Debug-iphonesimulator/GraphSample.app/en.lproj/InfoPlist.strings
+xGraphSample/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Copy GraphSample/en.lproj/InfoPlist.stringsdcdabae2eae9b641^2a1fcee2eae9b641^---0#0#0#-19%DVTDocumentLocation2@106"file://localhost/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/GraphSample/en.lproj/InfoPlist.strings0000000000000000^683"CopyStringsFile DerivedData/GraphSample/Build/Products/Debug-iphonesimulator/GraphSample.app/en.lproj/InfoPlist.strings GraphSample/en.lproj/InfoPlist.strings    cd /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Products/Debug-iphonesimulator/GraphSample.app/en.lproj -- GraphSample/en.lproj/InfoPlist.strings36"B4213079-9DF2-4C6F-99C3-DA50B9946129-
+
+CCpResource GraphSample/Default-568h@2x.png DerivedData/GraphSample/Build/Products/Debug-iphonesimulator/GraphSample.app/Default-568h@2x.png
+s384428770.730142
+e384428770.776078
+r1
+xCpResource
+xGraphSample/Default-568h@2x.png
+xDerivedData/GraphSample/Build/Products/Debug-iphonesimulator/GraphSample.app/Default-568h@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Copy DerivedData/GraphSample/Build/Products/Debug-iphonesimulator/GraphSample.app/Default-568h@2x.png700abbe2eae9b641^0cadc6e2eae9b641^---0#0#0#-19%DVTDocumentLocation2@164"file://localhost/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Products/Debug-iphonesimulator/GraphSample.app/Default-568h@2x.png000000000080d041^725"CpResource "GraphSample/Default-568h@2x.png" "DerivedData/GraphSample/Build/Products/Debug-iphonesimulator/GraphSample.app/Default-568h@2x.png"    cd /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/GraphSample/Default-568h@2x.png" /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Products/Debug-iphonesimulator/GraphSample.app36"3AED61F5-4C0B-4BDE-ACAD-929A87F3FC00-
+
+CCpResource GraphSample/Default.png DerivedData/GraphSample/Build/Products/Debug-iphonesimulator/GraphSample.app/Default.png
+s384428770.729420
+e384428770.775618
+r1
+xCpResource
+xGraphSample/Default.png
+xDerivedData/GraphSample/Build/Products/Debug-iphonesimulator/GraphSample.app/Default.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Copy DerivedData/GraphSample/Build/Products/Debug-iphonesimulator/GraphSample.app/Default.png1bd4bae2eae9b641^8a90c6e2eae9b641^---0#0#0#-19%DVTDocumentLocation2@156"file://localhost/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Products/Debug-iphonesimulator/GraphSample.app/Default.png000000000080d041^695"CpResource GraphSample/Default.png DerivedData/GraphSample/Build/Products/Debug-iphonesimulator/GraphSample.app/Default.png    cd /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/GraphSample/Default.png /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Products/Debug-iphonesimulator/GraphSample.app36"67072379-6DEA-4D36-A3A3-B4269D485AA3-
+
+CCpResource GraphSample/Default@2x.png DerivedData/GraphSample/Build/Products/Debug-iphonesimulator/GraphSample.app/Default@2x.png
+s384428770.729425
+e384428770.765037
+r1
+xCpResource
+xGraphSample/Default@2x.png
+xDerivedData/GraphSample/Build/Products/Debug-iphonesimulator/GraphSample.app/Default@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Copy DerivedData/GraphSample/Build/Products/Debug-iphonesimulator/GraphSample.app/Default@2x.png01dabae2eae9b641^dbddc3e2eae9b641^---0#0#0#-19%DVTDocumentLocation2@159"file://localhost/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Products/Debug-iphonesimulator/GraphSample.app/Default@2x.png000000000080d041^710"CpResource "GraphSample/Default@2x.png" "DerivedData/GraphSample/Build/Products/Debug-iphonesimulator/GraphSample.app/Default@2x.png"    cd /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/GraphSample/Default@2x.png" /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Products/Debug-iphonesimulator/GraphSample.app36"D6BB632C-854D-4308-8E2D-D5406CFB116C-
+
+CCpResource GraphSample/first.png DerivedData/GraphSample/Build/Products/Debug-iphonesimulator/GraphSample.app/first.png
+s384428770.777016
+e384428770.832547
+r1
+xCpResource
+xGraphSample/first.png
+xDerivedData/GraphSample/Build/Products/Debug-iphonesimulator/GraphSample.app/first.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Copy DerivedData/GraphSample/Build/Products/Debug-iphonesimulator/GraphSample.app/first.png180bc7e2eae9b641^8123d5e2eae9b641^---0#0#0#-19%DVTDocumentLocation2@154"file://localhost/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Products/Debug-iphonesimulator/GraphSample.app/first.png000000000080d041^689"CpResource GraphSample/first.png DerivedData/GraphSample/Build/Products/Debug-iphonesimulator/GraphSample.app/first.png    cd /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/GraphSample/first.png /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Products/Debug-iphonesimulator/GraphSample.app36"2B2EF051-954B-45E1-A0D3-ACAD045CF92A-
+
+CCpResource GraphSample/first@2x.png DerivedData/GraphSample/Build/Products/Debug-iphonesimulator/GraphSample.app/first@2x.png
+s384428770.777023
+e384428770.832552
+r1
+xCpResource
+xGraphSample/first@2x.png
+xDerivedData/GraphSample/Build/Products/Debug-iphonesimulator/GraphSample.app/first@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Copy DerivedData/GraphSample/Build/Products/Debug-iphonesimulator/GraphSample.app/first@2x.png6808c7e2eae9b641^8c2cd5e2eae9b641^---0#0#0#-19%DVTDocumentLocation2@157"file://localhost/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Products/Debug-iphonesimulator/GraphSample.app/first@2x.png000000000080d041^704"CpResource "GraphSample/first@2x.png" "DerivedData/GraphSample/Build/Products/Debug-iphonesimulator/GraphSample.app/first@2x.png"    cd /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/GraphSample/first@2x.png" /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Products/Debug-iphonesimulator/GraphSample.app36"998712B2-A748-426D-88C2-92FACE576243-
+
+CCpResource GraphSample/second.png DerivedData/GraphSample/Build/Products/Debug-iphonesimulator/GraphSample.app/second.png
+s384428770.806542
+e384428770.832559
+r1
+xCpResource
+xGraphSample/second.png
+xDerivedData/GraphSample/Build/Products/Debug-iphonesimulator/GraphSample.app/second.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Copy DerivedData/GraphSample/Build/Products/Debug-iphonesimulator/GraphSample.app/second.png338dcee2eae9b641^dc29d5e2eae9b641^---0#0#0#-19%DVTDocumentLocation2@155"file://localhost/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Products/Debug-iphonesimulator/GraphSample.app/second.png000000000080d041^692"CpResource GraphSample/second.png DerivedData/GraphSample/Build/Products/Debug-iphonesimulator/GraphSample.app/second.png    cd /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/GraphSample/second.png /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Products/Debug-iphonesimulator/GraphSample.app36"6611AB13-AABF-4B5A-AFCD-672A4F914591-
+
+CCpResource GraphSample/second@2x.png DerivedData/GraphSample/Build/Products/Debug-iphonesimulator/GraphSample.app/second@2x.png
+s384428770.833868
+e384428771.044153
+r1
+xCpResource
+xGraphSample/second@2x.png
+xDerivedData/GraphSample/Build/Products/Debug-iphonesimulator/GraphSample.app/second@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Copy DerivedData/GraphSample/Build/Products/Debug-iphonesimulator/GraphSample.app/second@2x.png7991d5e2eae9b641^ad4d0be3eae9b641^---0#0#0#-19%DVTDocumentLocation2@158"file://localhost/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Products/Debug-iphonesimulator/GraphSample.app/second@2x.png000000000080d041^707"CpResource "GraphSample/second@2x.png" "DerivedData/GraphSample/Build/Products/Debug-iphonesimulator/GraphSample.app/second@2x.png"    cd /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/GraphSample/second@2x.png" /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Products/Debug-iphonesimulator/GraphSample.app36"8F811C28-6F66-4684-B881-F78ECC452727-
+
+CGenerateDSYMFile /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Products/Debug-iphonesimulator/GraphSample.app.dSYM /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Products/Debug-iphonesimulator/GraphSample.app/GraphSample
+s384436333.460358
+e384436334.658832
+r1
+xGenerateDSYMFile
+x/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Products/Debug-iphonesimulator/GraphSample.app.dSYM
+x/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Products/Debug-iphonesimulator/GraphSample.app/GraphSample
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection144"Generating /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Products/Debug-iphonesimulator/GraphSample.app.dSYM0fef756d08eab641^7aa9a86e08eab641^---0#0#0#-19%DVTDocumentLocation2@150"file://localhost/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Products/Debug-iphonesimulator/GraphSample.app.dSYM/0000000000000000^820"GenerateDSYMFile DerivedData/GraphSample/Build/Products/Debug-iphonesimulator/GraphSample.app.dSYM DerivedData/GraphSample/Build/Products/Debug-iphonesimulator/GraphSample.app/GraphSample    cd /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Products/Debug-iphonesimulator/GraphSample.app/GraphSample -o /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Products/Debug-iphonesimulator/GraphSample.app.dSYM36"DF9561BE-053F-4F93-BE9F-C4E211E5C92E-
+
+CLd /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Products/Debug-iphonesimulator/GraphSample.app/GraphSample normal i386
+s384436329.882497
+e384436333.453310
+r1
+xLd
+x/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Products/Debug-iphonesimulator/GraphSample.app/GraphSample
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection145"Link /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Products/Debug-iphonesimulator/GraphSample.app/GraphSampleb403e26908eab641^d80c746d08eab641^---0#0#0#--1518"Ld DerivedData/GraphSample/Build/Products/Debug-iphonesimulator/GraphSample.app/GraphSample normal i386    cd /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample    setenv IPHONEOS_DEPLOYMENT_TARGET 5.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -L/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Products/Debug-iphonesimulator -L/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/iOS -F/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Products/Debug-iphonesimulator -filelist /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/Objects-normal/i386/GraphSample.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -ObjC -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=5.0 -framework QuartzCore -framework UIKit -framework Foundation -framework CoreGraphics -lCorePlot-CocoaTouch -o /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Products/Debug-iphonesimulator/GraphSample.app/GraphSample36"B9E08327-F929-4153-A361-8B147FC194C7-
+
+CProcessInfoPlistFile /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Products/Debug-iphonesimulator/GraphSample.app/Info.plist GraphSample/GraphSample-Info.plist
+s384428766.213596
+e384428766.225620
+r1
+xProcessInfoPlistFile
+x/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Products/Debug-iphonesimulator/GraphSample.app/Info.plist
+xGraphSample/GraphSample-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection42"Process GraphSample/GraphSample-Info.plist79ca36deeae9b641^4cc239deeae9b641^---0#0#0#-19%DVTDocumentLocation2@102"file://localhost/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/GraphSample/GraphSample-Info.plist0000000000000000^816"ProcessInfoPlistFile DerivedData/GraphSample/Build/Products/Debug-iphonesimulator/GraphSample.app/Info.plist GraphSample/GraphSample-Info.plist    cd /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility GraphSample/GraphSample-Info.plist -genpkginfo /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Products/Debug-iphonesimulator/GraphSample.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Products/Debug-iphonesimulator/GraphSample.app/Info.plist36"CE1A7BB8-6695-4924-ABF6-D9F1BA739113-
+
+CProcessPCH /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Intermediates/PrecompiledHeaders/GraphSample-Prefix-eqfftrckzngduecfghggeevsoqpx/GraphSample-Prefix.pch.pth GraphSample/GraphSample-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s384428766.241228
+e384428768.422208
+r1
+xProcessPCH
+x/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Intermediates/PrecompiledHeaders/GraphSample-Prefix-eqfftrckzngduecfghggeevsoqpx/GraphSample-Prefix.pch.pth
+xGraphSample/GraphSample-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Precompile GraphSample/GraphSample-Prefix.pcha5823edeeae9b641^94146ce0eae9b641^---0#0#0#-19%DVTDocumentLocation2@102"file://localhost/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/GraphSample/GraphSample-Prefix.pch0000000000000000^4105"ProcessPCH DerivedData/GraphSample/Build/Intermediates/PrecompiledHeaders/GraphSample-Prefix-eqfftrckzngduecfghggeevsoqpx/GraphSample-Prefix.pch.pth GraphSample/GraphSample-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.0 -iquote /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/GraphSample-generated-files.hmap -I/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/GraphSample-own-target-headers.hmap -I/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/GraphSample-all-target-headers.hmap -iquote /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/GraphSample-project-headers.hmap -I/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/DerivedSources/i386 -I/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Intermediates/GraphSample.build/Debug-iphonesimulator/GraphSample.build/DerivedSources -F/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Intermediates/PrecompiledHeaders/GraphSample-Prefix-eqfftrckzngduecfghggeevsoqpx/GraphSample-Prefix.pch.dia -c /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/GraphSample/GraphSample-Prefix.pch -o /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Intermediates/PrecompiledHeaders/GraphSample-Prefix-eqfftrckzngduecfghggeevsoqpx/GraphSample-Prefix.pch.pth -MMD -MT dependencies -MF /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Intermediates/PrecompiledHeaders/GraphSample-Prefix-eqfftrckzngduecfghggeevsoqpx/GraphSample-Prefix.pch.d36"4A029088-1D41-4265-AA8D-F6F491ED408E-
+
+CProcessPCH /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Index/PrecompiledHeaders/GraphSample-Prefix-hdtwfhxzmzlwrkgssyqdxrnrkbzs_ast/GraphSample-Prefix.pch.pth GraphSample/GraphSample-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Products/Debug-iphonesimulator/GraphSample.app
+s384436334.678272
+e384436334.841961
+r1
+xTouch
+x/Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Products/Debug-iphonesimulator/GraphSample.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection134"Touch /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Products/Debug-iphonesimulator/GraphSample.appccb4ad6e08eab641^158fd76e08eab641^---0#0#0#--488"Touch DerivedData/GraphSample/Build/Products/Debug-iphonesimulator/GraphSample.app    cd /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/nesstechnologies/Demo_Mobile_Dev/GraphSample/DerivedData/GraphSample/Build/Products/Debug-iphonesimulator/GraphSample.app36"FFBB10EA-3C9E-4FD7-A1CF-01454A8F2F78-
+
